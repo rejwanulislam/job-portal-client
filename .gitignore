@@ -26,11 +26,8 @@ dist-ssr
 config.bat
 
 # Environment variables and local secrets
-.env
-.env.*
 !.env.example
 !.env.sample
 !.env.template
 
 # Local editor and workspace configuration
-.vscode/
